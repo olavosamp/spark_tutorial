@@ -2,7 +2,9 @@
 *~
 
 # Data
-data/
+*.txt
+*.csv
+*.json
 
 # VSCode config files
 .vscode
